@@ -8,4 +8,4 @@
 
 [Blog Post](https://)
 
-[Final Results](https://[Blog Post](https://))
+[Final Results](https://github.com/bkee06/IBM_Capstone/blob/main/shop_df.csv)
